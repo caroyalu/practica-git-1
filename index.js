@@ -1,7 +1,7 @@
 //Crear variables en JS
 
 //ES5
-var name = 'Jay';
+var name = 'Lord Jay';
 
 //ES6
 let age = 35;
